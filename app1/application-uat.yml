@@ -1,2 +1,4 @@
 app:
   environment:uat
+  configFile: 
+    name: application-uat.yml
