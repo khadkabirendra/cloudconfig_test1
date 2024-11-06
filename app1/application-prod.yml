@@ -1,2 +1,4 @@
 app:
   environment:prod
+  configFile: 
+    name: application-prod.yml
