@@ -8,6 +8,6 @@ feature:
   agreement-support-for-mit:
     enabled: true
   device-payment:
-    enabled: true
+    enabled: false
   moto:
     enabled: false
