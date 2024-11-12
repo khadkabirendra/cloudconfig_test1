@@ -2,3 +2,12 @@ app:
   environment: local
   configFile: 
     name: application-local.yml
+feature:
+  stored-credentials:
+    enabled: true
+  agreement-support-for-mit:
+    enabled: true
+  device-payment:
+    enabled: true
+  moto:
+    enabled: false
